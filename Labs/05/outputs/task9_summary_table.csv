@@ -1,0 +1,4 @@
+K (clusters),Distinct colors,Colors removed (%),Mean squared error,PSNR (dB),Compactness (total squared distance)
+2,2,99.993,513.8,21.02,1.255e+08
+4,4,99.986,194.2,25.25,4.739e+07
+6,6,99.979,130.4,26.98,3.182e+07

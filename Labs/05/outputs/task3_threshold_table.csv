@@ -1,0 +1,6 @@
+Variant,Mean gray level,Otsu threshold,Coin pixels (%),Overlap with baseline mask (IoU)
+Baseline,153.7,162.0,55.9,1.0
+"Low contrast (x0.6, +20)",112.2,117.0,55.9,1.0
+"High contrast (x1.4, -40)",160.4,167.0,55.2,0.987
+Brighter (+30),178.6,185.0,55.5,0.994
+Gaussian blur 7x7,153.7,163.0,56.9,0.982

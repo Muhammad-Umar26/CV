@@ -1,0 +1,19 @@
+Method,Parameter,Value,Threshold picked,Foreground (%)
+Otsu,blur kernel,1,113.0,22.4
+Otsu,blur kernel,5,111.0,23.1
+Otsu,blur kernel,11,108.0,24.7
+Otsu,blur kernel,21,105.0,26.9
+Otsu,threshold shift,-30,81.0,46.5
+Otsu,threshold shift,30,141.0,12.0
+HSV color,lower hue,150,-,1.33
+HSV color,lower hue,160,-,1.33
+HSV color,lower hue,168,-,1.33
+HSV color,min saturation,40,-,2.32
+HSV color,min saturation,100,-,1.33
+HSV color,min saturation,160,-,0.77
+HSV color,min value,60,-,1.42
+HSV color,min value,100,-,1.33
+HSV color,min value,160,-,1.14
+K-Means,K,3,-,MSE = 281
+K-Means,K,6,-,MSE = 130
+K-Means,K,9,-,MSE = 86

@@ -1,0 +1,7 @@
+Experiment,Distance Threshold,Foreground (markers),Regions,Observed Result
+1,0.30 x max = 7.2 px,1,1,Under-segmented: coins stay merged into 1 large regions
+2,0.40 x max = 9.6 px,7,7,Under-segmented: coins stay merged into 7 large regions
+3,0.50 x max = 12.0 px,24,24,"All coins separated, one region per coin"
+4,0.70 x max = 16.8 px,24,24,"All coins separated, one region per coin"
+5,0.90 x max = 21.6 px,24,24,"All coins separated, one region per coin"
+6,0.99 x max = 23.8 px,20,20,4 coins lost their marker and were swallowed by neighbours

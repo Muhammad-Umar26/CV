@@ -1,0 +1,5 @@
+Result,Edge pixels,Outline pixels found (%),Missing outline (%),Unwanted edge pixels
+"Result 1 (10, 40)",3829,99.7,0.3,1070
+"Result 2 (10, 150)",3067,99.2,0.8,362
+"Result 3 (10, 400)",2113,78.5,21.5,39
+"Extra (250, 400)",1865,72.9,27.1,0

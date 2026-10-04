@@ -1,0 +1,7 @@
+Seed,"Seed position (x, y)",Seed reference intensity,Threshold,Region area (px),Share of image (%)
+Seed A (bright mass),"(149, 219)",209.0,10,1888,1.2
+Seed A (bright mass),"(149, 219)",209.0,20,3261,2.0
+Seed A (bright mass),"(149, 219)",209.0,35,4389,2.7
+Seed B (normal tissue),"(294, 194)",157.7,10,354,0.2
+Seed B (normal tissue),"(294, 194)",157.7,20,2553,1.6
+Seed B (normal tissue),"(294, 194)",157.7,35,38917,23.7
